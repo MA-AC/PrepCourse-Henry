@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio de prueba M02 Henry
+Proyecto de prueba, creación de repositorio y clonación desde GitHub al desktop local.
+
+
